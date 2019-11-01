@@ -1,0 +1,5 @@
+Everest	Nepali	300
+TNT	Thakalli	150
+Sagarmatha	cake	70
+pokhara	chinese	450
+sunrise	indian	320
